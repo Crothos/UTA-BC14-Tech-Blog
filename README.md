@@ -13,7 +13,7 @@
 ## Description
 A CMS-style tech blog site where you can login, post a blog, and comment on other blog posts.
 
-![Screenshot of Tech Blog](https://cdn.discordapp.com/attachments/612981552246292500/1073470947782295562/screenshot2.png)
+![Screenshot of Tech Blog](https://cdn.discordapp.com/attachments/612981552246292500/1076371060217356388/Untitled.png)
 
 
 ## Usage
