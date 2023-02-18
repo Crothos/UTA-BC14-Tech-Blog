@@ -1,5 +1,9 @@
 header, .project:not(:last-child) {
-    border-bottom: 1px solid #ccc;
+    padding: 1em;
+    border-bottom: 2px solid #ccc;
+    background-color: #065b83;
+    display: flex;
+
   }
 
   .no-button {
@@ -13,6 +17,15 @@ header, .project:not(:last-child) {
   }
 
   .no-button:hover {
-    color: #065b83;
+    color: #044969;
     text-decoration: underline;
+  }
+
+  nav {
+    padding: 1em;
+  }
+
+  a:link {
+    text-decoration: none;
+
   }
